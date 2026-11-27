@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, MessageHandler, filters
 
 # API Keys (Environment variables ලෙස හෝ කෙලින්ම මෙහි යොදන්න)
-TELEGRAM_TOKEN = "8800233820:AAFWccO8LeHty7SlAo1QniR2KcsU8pVauj4"
+TELEGRAM_TOKEN = "9055311886:AAHC5kMElAMNjGvNpXC-OOwNcllMvfKYBwI"
 GEMINI_API_KEY = "AQ.Ab8RN6JiBnKazFLXEclWDt42oCcw3AtyJbUAg59BgdX9QHi8qg"
 
 # Logging සැහැල්ලුවෙන් තබා ගැනීම (disk/memory ඉතිරි කර ගැනීමට)
